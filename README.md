@@ -1,4 +1,4 @@
-# Business-Performence-Profitability-intelligence
+# Business Performence Profitability intelligence
 
 **📌Project Overview**
 An E-commerce company is experiencing declining profit margin despite consistent revenue growth
@@ -81,7 +81,6 @@ Power BI dashboard overview
 
 **Business Recommendations**
 
-# Recommendation:-
  1. **Apply a company-wide discount cap of 10-12%** The discount rate rose from 10.3% to 15.1% between 2023 and 2025, while order quantity stayed flat at about 28.3k units the extra discount did not generate extra sales.
  2. **Track the volume impact of over every promotion.** Measure order volume before and after each campaign, and stop discounts that do not lift orders.
  3. **Shift from blanket discounts to targeted ones** Offer discounts only on show-moving products or clearance items, where they can actually increase volume
