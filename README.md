@@ -35,3 +35,30 @@ Key activities included:
 * Cleaning and preparing the dataset for subsequent analysis.
 
 ### Phase 2: EDA Using Python
+
+Exploratory data analysis started after clean the data 
+
+Key activities included:
+
+* Identified the year wise total profit margin
+* checked the year-wise revenue
+* After that found the year-wise discount pct, shipping rate, COGS
+* Found year-wise total Quantity of orders
+* Got the root cause behind the profit margin declining
+
+### Phase 3: Power BI Dashboard
+
+Created an interactive dashboard using cleaned data 
+
+Key activities included:
+
+* Created total 6 KPIs related to data
+* identified year-wise declining profit margin and Revenue(2023-2025)
+* created a chart to identify category-wise profit margin year by year
+* Created 4 Slicers (city , region, payment_method, sales channel)
+
+### Phase 4: Suggested Business Recommendations: 
+
+
+
+  
