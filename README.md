@@ -18,3 +18,20 @@ The total overview of the data is almost 50,000 rows and columns almost 30...
 | Power BI                   | Interactive dashboard development                                      |
 | DAX                        | KPIs calculations and measures                                         |
 
+## 🔄 Project Workflow
+
+### Phase 1: Data Cleaning Using Python
+
+The project started with a raw customer churn dataset.
+
+Python was used to inspect the dataset, identify data quality issues, and prepare the data for analysis.
+
+Key activities included:
+
+* Inspecting the dataset structure and column types.
+* Checking for missing values.
+* Checking for duplicate customer records.
+* Identifying data quality issues.
+* Cleaning and preparing the dataset for subsequent analysis.
+
+### Phase 2: EDA Using Python
